@@ -47,7 +47,7 @@ It provides detailed public IP information directly from the terminal with a cle
 Run:
 
 ```bash
-requirements.bat
+download.bat
 ```
 
 Start tool:
