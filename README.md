@@ -69,7 +69,7 @@ pip3 install -r requirements.txt
 Run:
 
 ```bash
-python3 xcryp_ip.py
+python3 main.py
 ```
 
 ---
@@ -79,9 +79,9 @@ python3 xcryp_ip.py
 ```bash
 XCRYP-IP/
 │
-├── xcryp_ip.py
+├── maib.py
 ├── requirements.txt
-├── requirements.bat
+├── download.bat
 ├── start.bat
 └── README.md
 ```
